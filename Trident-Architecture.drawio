@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T10:38:19.883Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="-9w_ryEIF7BTTHMdOKTW" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T10:40:55.302Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8s65Y-MF-ArIwpiIpYHz" version="14.1.7" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="3461" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2277" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-167" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.manual_switch;strokeWidth=1;fontFamily=Tahoma;fontSize=12;fontStyle=1;fillColor=none;" vertex="1" parent="spsE7N1KxRnAXjpoYgU2-159">
           <mxGeometry x="160" y="113" width="35" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="spsE7N1KxRnAXjpoYgU2-187" value="&lt;b&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;q&lt;/span&gt;&lt;/b&gt;&lt;sub&gt;sp&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;opacity=50;" vertex="1" parent="spsE7N1KxRnAXjpoYgU2-159">
+          <mxGeometry x="470" y="230" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Process 1&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr /&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;System Study&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Preparation&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="236" y="236" width="110" height="90" as="geometry" />
@@ -502,6 +505,9 @@
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-184" value="Robot Operating System (ROS)" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-617.5" y="780" width="519" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="spsE7N1KxRnAXjpoYgU2-186" value="&lt;b&gt;T&lt;/b&gt;&lt;sub&gt;sp&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="296" y="1029.5" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

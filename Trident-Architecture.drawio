@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T11:01:26.302Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="XvyBiAfiUEk-6SgVZ3pm" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T11:02:15.913Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="FqV3jyQB0HqlZ_6IgnyD" version="14.1.7" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="3461" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -537,9 +537,12 @@
         <mxCell id="spsE7N1KxRnAXjpoYgU2-212" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;endArrow=open;endFill=0;strokeColor=#000000;fontFamily=Tahoma;fontSize=12;shape=link;width=30.476190476190474;endSize=20;startSize=20;" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-184" target="spsE7N1KxRnAXjpoYgU2-211">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="spsE7N1KxRnAXjpoYgU2-213" style="edgeStyle=none;shape=link;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=open;startFill=0;startSize=20;endArrow=none;endFill=0;endSize=20;strokeColor=#000000;fontFamily=Tahoma;fontSize=12;" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-184">
+        <mxCell id="spsE7N1KxRnAXjpoYgU2-214" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#000000;fontFamily=Tahoma;fontSize=12;" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-184" target="spsE7N1KxRnAXjpoYgU2-134">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-710" y="1290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-700" y="1495" />
+              <mxPoint x="-700" y="1041" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-184" value="Robot Operating System (ROS)" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -556,6 +559,9 @@
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-211" value="Nvidia Isaac SDK" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="90" y="1460" width="550" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="spsE7N1KxRnAXjpoYgU2-215" value="&lt;b&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;P&lt;/span&gt;&lt;/b&gt;&lt;sub&gt;sp&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="1053.5" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

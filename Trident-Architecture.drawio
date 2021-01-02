@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T10:05:02.499Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="5aISJkfzn-lsFok9-FMs" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T10:08:51.788Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="wJLHJwOWgd4oP_dF0PbI" version="14.1.7" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2292" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2770" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,7 +328,7 @@
         <mxCell id="spsE7N1KxRnAXjpoYgU2-98" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.relay_coil_2;strokeWidth=1;fontFamily=Tahoma;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="812.5" y="1083.5" width="41.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="spsE7N1KxRnAXjpoYgU2-152" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;fontFamily=Tahoma;fontSize=12;fontStyle=1" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-99" target="spsE7N1KxRnAXjpoYgU2-157">
+        <mxCell id="spsE7N1KxRnAXjpoYgU2-152" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#000000;fontFamily=Tahoma;fontSize=12;fontStyle=1" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-99" target="spsE7N1KxRnAXjpoYgU2-157">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="965" y="1098.5000000000002" as="targetPoint" />
           </mxGeometry>
@@ -424,7 +424,7 @@
         <mxCell id="spsE7N1KxRnAXjpoYgU2-139" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/very-basic-android-l-lollipop-icon-pack/24/minus-128.png;strokeWidth=1;fontSize=12;fontFamily=Tahoma;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="142" y="1008.5" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="spsE7N1KxRnAXjpoYgU2-149" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;fontFamily=Tahoma;fontSize=12;fontStyle=1" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-143" target="spsE7N1KxRnAXjpoYgU2-147">
+        <mxCell id="spsE7N1KxRnAXjpoYgU2-149" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#000000;fontFamily=Tahoma;fontSize=12;fontStyle=1" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-143" target="spsE7N1KxRnAXjpoYgU2-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-143" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.relay_coil_2;strokeWidth=1;fontFamily=Tahoma;fontSize=12;fontStyle=1" vertex="1" parent="1">
@@ -436,7 +436,7 @@
         <mxCell id="spsE7N1KxRnAXjpoYgU2-145" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/very-basic-android-l-lollipop-icon-pack/24/minus-128.png;strokeWidth=1;fontSize=12;fontFamily=Tahoma;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="456.38" y="1008.5" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="spsE7N1KxRnAXjpoYgU2-153" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;fontFamily=Tahoma;fontSize=12;fontStyle=1" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-147" target="spsE7N1KxRnAXjpoYgU2-157">
+        <mxCell id="spsE7N1KxRnAXjpoYgU2-153" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#000000;fontFamily=Tahoma;fontSize=12;fontStyle=1" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-147" target="spsE7N1KxRnAXjpoYgU2-157">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="965" y="1003.5000000000002" as="targetPoint" />
           </mxGeometry>
@@ -448,7 +448,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-156" value="Attitude &amp;amp; thrust setpoint generator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;rotation=-90;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="464.5" y="1014.5" width="105" height="70" as="geometry" />
+          <mxGeometry x="464.5" y="1015.5" width="105" height="70" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-157" value="" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Tahoma;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="978" y="956" width="40" height="190" as="geometry" />

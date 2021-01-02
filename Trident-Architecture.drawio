@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T10:24:31.630Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="lCi4e2umqDikRbAf70gA" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T10:26:53.916Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="J316qkGO5IRmG1JB6lzT" version="14.1.7" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2277" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3068" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="spsE7N1KxRnAXjpoYgU2-159" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;whiteSpace=wrap;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="960" width="940" height="310" as="geometry" />
+          <mxGeometry x="-506" y="960" width="940" height="310" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-160" value="Filght Controller" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="spsE7N1KxRnAXjpoYgU2-159">
           <mxGeometry width="940.0000000000001" height="50" relative="1" as="geometry" />
@@ -417,7 +417,7 @@
         <mxCell id="spsE7N1KxRnAXjpoYgU2-136" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.relay_coil_2;strokeWidth=1;fontFamily=Tahoma;fontSize=12;fontStyle=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-483.5" y="1078.5" width="41.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="spsE7N1KxRnAXjpoYgU2-168" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;fontFamily=Tahoma;fontSize=12;" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-137">
+        <mxCell id="spsE7N1KxRnAXjpoYgU2-168" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;fontFamily=Tahoma;fontSize=12;" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-137" target="spsE7N1KxRnAXjpoYgU2-167">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-355" y="1093.5" as="targetPoint" />
           </mxGeometry>

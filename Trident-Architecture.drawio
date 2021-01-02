@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T10:41:16.139Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Xe5ZIuRGke5xsHTHBqgO" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T10:44:03.529Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="zRqGArX2SPqYnYJzSNG-" version="14.1.7" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2499" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,15 @@
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-187" value="&lt;b&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;q&lt;/span&gt;&lt;/b&gt;&lt;sub&gt;sp&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;opacity=50;" vertex="1" parent="spsE7N1KxRnAXjpoYgU2-159">
           <mxGeometry x="470" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="spsE7N1KxRnAXjpoYgU2-188" value="&lt;b&gt;V&lt;/b&gt;&lt;sub&gt;sp&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;opacity=50;" vertex="1" parent="spsE7N1KxRnAXjpoYgU2-159">
+          <mxGeometry x="155" y="152.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="spsE7N1KxRnAXjpoYgU2-189" value="&lt;b&gt;A&lt;/b&gt;&lt;sub&gt;sp&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;opacity=50;" vertex="1" parent="spsE7N1KxRnAXjpoYgU2-159">
+          <mxGeometry x="360" y="153.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="spsE7N1KxRnAXjpoYgU2-196" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-family: monospace&quot;&gt;Ω&lt;/span&gt;&lt;sub&gt;sp&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;opacity=50;" vertex="1" parent="spsE7N1KxRnAXjpoYgU2-159">
+          <mxGeometry x="670" y="230" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Process 1&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr /&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;System Study&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Preparation&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="236" y="236" width="110" height="90" as="geometry" />

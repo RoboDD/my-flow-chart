@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T09:54:30.988Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="65b8mV297ITBI0gNQnfX" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T09:55:08.016Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="VsluK8kkgR1WozagqU8c" version="14.1.7" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1899" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -381,46 +381,46 @@
           <mxGeometry x="900" y="959" width="100" height="190" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-128" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; text-decoration: underline ; font-size: 11px&quot;&gt;&lt;strong style=&quot;font-size: 11px&quot;&gt;Velocity Controller&lt;/strong&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=11;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="219" y="949" width="134" height="90" as="geometry" />
+          <mxGeometry x="225" y="949" width="134" height="90" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-129" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-130" target="spsE7N1KxRnAXjpoYgU2-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-130" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.relay_coil_2;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="227.5" y="991.5" width="41.25" height="30" as="geometry" />
+          <mxGeometry x="233.5" y="991.5" width="41.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-146" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;fontFamily=Garamond;fontSize=11;" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-131" target="spsE7N1KxRnAXjpoYgU2-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-131" value="PID" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="295" y="984" width="49" height="45" as="geometry" />
+          <mxGeometry x="301" y="984" width="49" height="45" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-132" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/add-128.png;strokeWidth=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="238" y="1002.5" width="8" height="8" as="geometry" />
+          <mxGeometry x="244" y="1002.5" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-133" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/very-basic-android-l-lollipop-icon-pack/24/minus-128.png;strokeWidth=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="243" y="1011.5" width="10" height="10" as="geometry" />
+          <mxGeometry x="249" y="1011.5" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-134" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; text-decoration: underline ; font-size: 11px&quot;&gt;&lt;strong style=&quot;font-size: 11px&quot;&gt;Position Control&lt;/strong&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=11;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="47" y="949" width="134" height="90" as="geometry" />
+          <mxGeometry x="53" y="949" width="134" height="90" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-135" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-136" target="spsE7N1KxRnAXjpoYgU2-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-136" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.relay_coil_2;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="55.5" y="991.5" width="41.25" height="30" as="geometry" />
+          <mxGeometry x="61.5" y="991.5" width="41.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-140" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;fontSize=11;" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-137" target="spsE7N1KxRnAXjpoYgU2-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-137" value="PID" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="123" y="984" width="49" height="45" as="geometry" />
+          <mxGeometry x="129" y="984" width="49" height="45" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-138" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/add-128.png;strokeWidth=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="66" y="1002.5" width="8" height="8" as="geometry" />
+          <mxGeometry x="72" y="1002.5" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-139" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/very-basic-android-l-lollipop-icon-pack/24/minus-128.png;strokeWidth=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="71" y="1011.5" width="10" height="10" as="geometry" />
+          <mxGeometry x="77" y="1011.5" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-149" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;fontFamily=Garamond;fontSize=11;" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-143" target="spsE7N1KxRnAXjpoYgU2-147">
           <mxGeometry relative="1" as="geometry" />

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T10:50:57.890Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="O62QtgFO_hkX1xT2_t1G" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T10:52:51.615Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_kzIwBHG-gP5h_vDxNWn" version="14.1.7" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="3939" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3068" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-200" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif&quot;&gt;δ&lt;/span&gt;&lt;sub&gt;Rsp&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;opacity=50;" vertex="1" parent="spsE7N1KxRnAXjpoYgU2-159">
           <mxGeometry x="850" y="204" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="spsE7N1KxRnAXjpoYgU2-207" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.manual_switch;strokeWidth=1;fontFamily=Tahoma;fontSize=12;fontStyle=1;fillColor=none;" vertex="1" parent="spsE7N1KxRnAXjpoYgU2-159">
+          <mxGeometry x="580" y="113" width="35" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="2" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Process 1&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr /&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;System Study&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Preparation&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="236" y="236" width="110" height="90" as="geometry" />
@@ -483,22 +486,17 @@
         <mxCell id="spsE7N1KxRnAXjpoYgU2-144" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/add-128.png;strokeWidth=1;fontSize=12;fontFamily=Tahoma;fontStyle=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-272.62" y="1049.5" width="8" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="spsE7N1KxRnAXjpoYgU2-145" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/very-basic-android-l-lollipop-icon-pack/24/minus-128.png;strokeWidth=1;fontSize=12;fontFamily=Tahoma;fontStyle=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-267.62" y="1058.5" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="spsE7N1KxRnAXjpoYgU2-153" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;fontFamily=Tahoma;fontSize=12;fontStyle=1;fillColor=none;" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-147" target="spsE7N1KxRnAXjpoYgU2-157">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="241" y="1053.5000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-147" value="" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Tahoma;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-225" y="1006" width="40" height="190" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-148" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;fontFamily=Tahoma;fontSize=12;fontStyle=1;fillColor=none;" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-147" target="spsE7N1KxRnAXjpoYgU2-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="spsE7N1KxRnAXjpoYgU2-209" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.931;exitY=0.988;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;fontFamily=Tahoma;fontSize=12;exitPerimeter=0;" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-156" target="spsE7N1KxRnAXjpoYgU2-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-156" value="Attitude &amp;amp; thrust setpoint generator" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;rotation=-90;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-259.5" y="1065.5" width="105" height="70" as="geometry" />
+          <mxGeometry x="-258.49" y="1076" width="105" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-169" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;fontFamily=Tahoma;fontSize=12;" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-167" target="spsE7N1KxRnAXjpoYgU2-130">
           <mxGeometry relative="1" as="geometry" />
@@ -537,10 +535,16 @@
           <mxGeometry x="361" y="1105" width="95" height="94" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-184" value="Robot Operating System (ROS)" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-617.5" y="780" width="519" height="70" as="geometry" />
+          <mxGeometry x="-640" y="810" width="519" height="70" as="geometry" />
         </mxCell>
         <mxCell id="spsE7N1KxRnAXjpoYgU2-186" value="&lt;b&gt;T&lt;/b&gt;&lt;sub&gt;sp&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="298.5" y="1056" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="spsE7N1KxRnAXjpoYgU2-206" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/add-128.png;strokeWidth=1;fontSize=12;fontFamily=Tahoma;fontStyle=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-266.49" y="1041.5" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="spsE7N1KxRnAXjpoYgU2-210" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;fontFamily=Tahoma;fontSize=12;" edge="1" parent="1" source="spsE7N1KxRnAXjpoYgU2-207" target="spsE7N1KxRnAXjpoYgU2-157">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

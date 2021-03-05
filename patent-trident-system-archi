@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T07:18:48.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="LP6FQF5SEH_HR2HluhlG" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T07:20:14.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Eq2E-9Fl53rS9RXM_9Mg" version="14.2.9" type="github">
   <diagram id="RrOYi6C6XnIhl1dIUHR3" name="Page-1">
     <mxGraphModel dx="1218" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -108,16 +108,27 @@
         <mxCell id="1YzYuY_8Rir1JtZ_543l-26" value="根据机载摄像头画面，自动采集水面图像数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#33001A;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="504" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1YzYuY_8Rir1JtZ_543l-40" value="发送报告" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="1YzYuY_8Rir1JtZ_543l-37" target="1YzYuY_8Rir1JtZ_543l-38">
+        <mxCell id="1YzYuY_8Rir1JtZ_543l-40" value="发送报告" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="1YzYuY_8Rir1JtZ_543l-37" target="1YzYuY_8Rir1JtZ_543l-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="990" y="294" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="294" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1YzYuY_8Rir1JtZ_543l-37" value="数据分析，生成报告" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#33001A;" vertex="1" parent="1">
           <mxGeometry x="800" y="264" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1YzYuY_8Rir1JtZ_543l-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;fontColor=#000000;" edge="1" parent="1" source="1YzYuY_8Rir1JtZ_543l-38" target="1YzYuY_8Rir1JtZ_543l-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YzYuY_8Rir1JtZ_543l-43" value="发送水质勘测任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="1YzYuY_8Rir1JtZ_543l-42">
+          <mxGeometry x="-0.1567" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1YzYuY_8Rir1JtZ_543l-38" value="有关部门" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#33001A;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="264" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

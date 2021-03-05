@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T07:20:14.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Eq2E-9Fl53rS9RXM_9Mg" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T07:21:32.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="jnK6do6xIPCIQ3qPHKn3" version="14.2.9" type="github">
   <diagram id="RrOYi6C6XnIhl1dIUHR3" name="Page-1">
     <mxGraphModel dx="1218" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1YzYuY_8Rir1JtZ_543l-2" value="采样工作人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="1YzYuY_8Rir1JtZ_543l-2" value="采样工作人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="110" y="150" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1YzYuY_8Rir1JtZ_543l-10" value="4G" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="1YzYuY_8Rir1JtZ_543l-6" target="1YzYuY_8Rir1JtZ_543l-14">
@@ -42,7 +42,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1YzYuY_8Rir1JtZ_543l-6" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1YzYuY_8Rir1JtZ_543l-6" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="210" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1YzYuY_8Rir1JtZ_543l-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="1YzYuY_8Rir1JtZ_543l-11" target="1YzYuY_8Rir1JtZ_543l-14">
@@ -59,7 +59,7 @@
         <mxCell id="1YzYuY_8Rir1JtZ_543l-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="1YzYuY_8Rir1JtZ_543l-11" target="1YzYuY_8Rir1JtZ_543l-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1YzYuY_8Rir1JtZ_543l-11" value="智能水质采样无人机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1YzYuY_8Rir1JtZ_543l-11" value="智能水质采样无人机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="210" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1YzYuY_8Rir1JtZ_543l-15" value="信号转发" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="1YzYuY_8Rir1JtZ_543l-14" target="1YzYuY_8Rir1JtZ_543l-1">
@@ -116,6 +116,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="1YzYuY_8Rir1JtZ_543l-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;fontColor=#000000;" edge="1" parent="1" source="1YzYuY_8Rir1JtZ_543l-37" target="1YzYuY_8Rir1JtZ_543l-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1YzYuY_8Rir1JtZ_543l-37" value="数据分析，生成报告" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#33001A;" vertex="1" parent="1">
           <mxGeometry x="800" y="264" width="120" height="60" as="geometry" />
         </mxCell>
@@ -127,8 +130,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1YzYuY_8Rir1JtZ_543l-38" value="有关部门" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#33001A;" vertex="1" parent="1">
+        <mxCell id="1YzYuY_8Rir1JtZ_543l-38" value="有关部门" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="800" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1YzYuY_8Rir1JtZ_543l-44" value="历史数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#33001A;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="820" y="430" width="80" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

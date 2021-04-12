@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T07:46:42.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.5.10" etag="1gfqpX5tpf9AOKKuI10r" type="github"><diagram id="s8HjQ5PaiiVkqwZBqMqZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-12T07:55:54.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="egEuPNb93Vp_NFr8D5e3" version="14.5.10" type="github">
+  <diagram id="s8HjQ5PaiiVkqwZBqMqZ" name="Page-1">
+    <mxGraphModel dx="1283" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TTroXloFrYZL40nPFeGu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TTroXloFrYZL40nPFeGu-3" target="TTroXloFrYZL40nPFeGu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TTroXloFrYZL40nPFeGu-3" value="开始采样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="70" width="265" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TTroXloFrYZL40nPFeGu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TTroXloFrYZL40nPFeGu-4" target="TTroXloFrYZL40nPFeGu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TTroXloFrYZL40nPFeGu-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 绞盘顺时针旋转，根据编码器读书计算释放的&lt;br&gt;尼龙绳长度，达到预定采样深度，电机停转" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TTroXloFrYZL40nPFeGu-9" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TTroXloFrYZL40nPFeGu-6" target="TTroXloFrYZL40nPFeGu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TTroXloFrYZL40nPFeGu-6" value="采样瓶在水面下，完成采样？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301.87" y="280" width="236.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TTroXloFrYZL40nPFeGu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TTroXloFrYZL40nPFeGu-8" target="TTroXloFrYZL40nPFeGu-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TTroXloFrYZL40nPFeGu-8" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 绞盘逆时针旋转，当固定板碰撞到微动&lt;br&gt;开关时，电机停转" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="414" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TTroXloFrYZL40nPFeGu-11" value="采样结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="530" width="265" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

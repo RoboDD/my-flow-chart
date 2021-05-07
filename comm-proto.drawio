@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T06:00:47.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Wa4orpSfycWsQOtAEeZE" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T06:02:46.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="bNK7ugg-lXIHAI74tIBu" version="14.6.9" type="github">
   <diagram id="0kVkIlmmgISIjedjuV7p" name="Page-1">
     <mxGraphModel dx="887" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -35,31 +35,26 @@
             <mxPoint x="840" y="680" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JWJ-mv_oLn-hZATooN6I-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="JWJ-mv_oLn-hZATooN6I-32" target="JWJ-mv_oLn-hZATooN6I-1">
+        <mxCell id="JWJ-mv_oLn-hZATooN6I-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JWJ-mv_oLn-hZATooN6I-32" target="JWJ-mv_oLn-hZATooN6I-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="710" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JWJ-mv_oLn-hZATooN6I-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="JWJ-mv_oLn-hZATooN6I-13" target="JWJ-mv_oLn-hZATooN6I-1">
+        <mxCell id="JWJ-mv_oLn-hZATooN6I-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JWJ-mv_oLn-hZATooN6I-13" target="JWJ-mv_oLn-hZATooN6I-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JWJ-mv_oLn-hZATooN6I-13" value="MAVROS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JWJ-mv_oLn-hZATooN6I-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mavlink.io/assets/site/logo_mavlink_small.png;" vertex="1" parent="1">
-          <mxGeometry x="696.67" y="380" width="83.33" height="20" as="geometry" />
+          <mxGeometry x="790" y="394" width="83.33" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JWJ-mv_oLn-hZATooN6I-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="JWJ-mv_oLn-hZATooN6I-21" target="JWJ-mv_oLn-hZATooN6I-1">
+        <mxCell id="JWJ-mv_oLn-hZATooN6I-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JWJ-mv_oLn-hZATooN6I-21" target="JWJ-mv_oLn-hZATooN6I-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="490" y="420" />
               <mxPoint x="980" y="420" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JWJ-mv_oLn-hZATooN6I-23" value="Telemetry (WLAN, LTE, Radio)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JWJ-mv_oLn-hZATooN6I-22">
-          <mxGeometry x="0.2057" y="5" relative="1" as="geometry">
-            <mxPoint x="-85" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JWJ-mv_oLn-hZATooN6I-21" value="QGroundControl" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;dashed=1;" vertex="1" parent="1">

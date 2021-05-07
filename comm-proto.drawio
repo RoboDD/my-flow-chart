@@ -1,18 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T06:12:50.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="hnp19ib-HK0VtykIOIHd" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T06:14:48.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="W3qQKxlf-1FJ4sucgpBf" version="14.6.9" type="github">
   <diagram id="0kVkIlmmgISIjedjuV7p" name="Page-1">
     <mxGraphModel dx="887" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JWJ-mv_oLn-hZATooN6I-1" value="Flight Controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="890" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JWJ-mv_oLn-hZATooN6I-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="JWJ-mv_oLn-hZATooN6I-2" target="JWJ-mv_oLn-hZATooN6I-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JWJ-mv_oLn-hZATooN6I-8" value="UART" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JWJ-mv_oLn-hZATooN6I-7">
           <mxGeometry x="0.3252" y="3" relative="1" as="geometry">
-            <mxPoint x="-18" y="-7" as="offset" />
+            <mxPoint x="-13" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JWJ-mv_oLn-hZATooN6I-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JWJ-mv_oLn-hZATooN6I-2" target="JWJ-mv_oLn-hZATooN6I-13">
@@ -43,7 +43,7 @@
             <Array as="points">
               <mxPoint x="410" y="460" />
               <mxPoint x="410" y="420" />
-              <mxPoint x="980" y="420" />
+              <mxPoint x="930" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="780" />
-              <mxPoint x="980" y="780" />
+              <mxPoint x="930" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -91,6 +91,15 @@
         </mxCell>
         <mxCell id="JWJ-mv_oLn-hZATooN6I-40" value="UART/WIFI/Radio/Bluetooth/LTE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="560" y="590.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="JWJ-mv_oLn-hZATooN6I-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mavlink.io/assets/site/logo_mavlink_small.png;" vertex="1" parent="1">
+          <mxGeometry x="790" y="396" width="74" height="17.76" as="geometry" />
+        </mxCell>
+        <mxCell id="JWJ-mv_oLn-hZATooN6I-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mavlink.io/assets/site/logo_mavlink_small.png;" vertex="1" parent="1">
+          <mxGeometry x="790" y="468" width="74" height="17.76" as="geometry" />
+        </mxCell>
+        <mxCell id="JWJ-mv_oLn-hZATooN6I-43" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mavlink.io/assets/site/logo_mavlink_small.png;" vertex="1" parent="1">
+          <mxGeometry x="790" y="690" width="74" height="17.76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

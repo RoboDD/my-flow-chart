@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T06:36:55.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="QUyg06FcAWNNcV3mwZfD" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T06:38:47.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="nUabes0a1GP57jwyaB_J" version="14.6.9" type="github">
   <diagram id="lMDNcOSs3lMQIxUguSS0" name="Page-1">
-    <mxGraphModel dx="887" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,20 +42,24 @@
         <mxCell id="IrnzPBB1oJrZkGAjnWZN-15" value="Android" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="330" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IrnzPBB1oJrZkGAjnWZN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="IrnzPBB1oJrZkGAjnWZN-15">
+        <mxCell id="IrnzPBB1oJrZkGAjnWZN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="IrnzPBB1oJrZkGAjnWZN-15" target="IrnzPBB1oJrZkGAjnWZN-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="610" as="sourcePoint" />
             <mxPoint x="650" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="600" />
+              <mxPoint x="600" y="615" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IrnzPBB1oJrZkGAjnWZN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IrnzPBB1oJrZkGAjnWZN-18" target="IrnzPBB1oJrZkGAjnWZN-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IrnzPBB1oJrZkGAjnWZN-18" value="MAVSDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IrnzPBB1oJrZkGAjnWZN-19" value="Radio/WIFI/LTE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="550" y="590.0000000000002" as="geometry" />
+          <mxGeometry x="520" y="550.0000000000002" as="geometry" />
         </mxCell>
         <mxCell id="IrnzPBB1oJrZkGAjnWZN-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mavlink.io/assets/site/logo_mavlink_small.png;" vertex="1" parent="1">
           <mxGeometry x="790" y="468" width="74" height="17.76" as="geometry" />
@@ -64,7 +68,7 @@
           <mxGeometry x="660" y="481" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="IrnzPBB1oJrZkGAjnWZN-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-128.png;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="710" width="20" height="20" as="geometry" />
+          <mxGeometry x="500" y="710" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IrnzPBB1oJrZkGAjnWZN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IrnzPBB1oJrZkGAjnWZN-30" target="IrnzPBB1oJrZkGAjnWZN-1">
           <mxGeometry relative="1" as="geometry" />
@@ -76,7 +80,18 @@
           <mxGeometry x="790" y="692.24" width="74" height="17.76" as="geometry" />
         </mxCell>
         <mxCell id="IrnzPBB1oJrZkGAjnWZN-35" value="TCP/UDP/Own Protocol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="600" width="170" height="20" as="geometry" />
+          <mxGeometry x="440" y="560" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IrnzPBB1oJrZkGAjnWZN-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="IrnzPBB1oJrZkGAjnWZN-36" target="IrnzPBB1oJrZkGAjnWZN-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="505" />
+              <mxPoint x="600" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IrnzPBB1oJrZkGAjnWZN-36" value="PC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="330" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

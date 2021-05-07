@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T07:35:13.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="L8ADzBGxXgcudfUO6vFT" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T07:38:12.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="DZWcHLkcgoFj4GMcbrg2" version="14.6.9" type="github">
   <diagram id="LDHPVA9tsnXgw3kA8gWP" name="Page-1">
     <mxGraphModel dx="734" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -91,8 +91,8 @@
         <mxCell id="XBLnhtw9XQWaBoh4cR1--42" value="TELEM2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="390" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XBLnhtw9XQWaBoh4cR1--43" value="USB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="390" width="40" height="20" as="geometry" />
+        <mxCell id="XBLnhtw9XQWaBoh4cR1--43" value="USB-&amp;gt;OTG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

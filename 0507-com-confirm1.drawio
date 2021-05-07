@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T07:25:31.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="C-JfD9MF7Wx7mDLBGGTr" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T07:26:54.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="wggb1dFChRIawLSJyUSB" version="14.6.9" type="github">
   <diagram id="LDHPVA9tsnXgw3kA8gWP" name="Page-1">
     <mxGraphModel dx="734" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -62,8 +62,10 @@
         <mxCell id="XBLnhtw9XQWaBoh4cR1--18" value="MAVSDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="534" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XBLnhtw9XQWaBoh4cR1--19" value="Radio" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="590" y="420.0000000000002" as="geometry" />
+        <mxCell id="XBLnhtw9XQWaBoh4cR1--19" value="Radio Telemetry" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="414.0000000000002" as="geometry">
+            <mxPoint x="-5" y="3" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XBLnhtw9XQWaBoh4cR1--23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="555" width="18" height="18" as="geometry" />
@@ -79,6 +81,18 @@
               <mxPoint x="620" y="459" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XBLnhtw9XQWaBoh4cR1--39" value="/dev/ttyACM0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XBLnhtw9XQWaBoh4cR1--41" value="/dev/ttyUSB0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XBLnhtw9XQWaBoh4cR1--42" value="TELEM2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XBLnhtw9XQWaBoh4cR1--43" value="USB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="390" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

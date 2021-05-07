@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T06:51:10.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="TBYvlbdUnE9gdG3RfeND" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T06:56:25.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="KH6iVSemjcsLOR6gQFuT" version="14.6.9" type="github">
   <diagram id="lMDNcOSs3lMQIxUguSS0" name="Page-1">
-    <mxGraphModel dx="1064" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="887" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,15 +33,16 @@
         <mxCell id="IrnzPBB1oJrZkGAjnWZN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="IrnzPBB1oJrZkGAjnWZN-11" target="IrnzPBB1oJrZkGAjnWZN-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IrnzPBB1oJrZkGAjnWZN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="IrnzPBB1oJrZkGAjnWZN-11" target="IrnzPBB1oJrZkGAjnWZN-9">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="IrnzPBB1oJrZkGAjnWZN-41" value="Running command line to Start/Terminate apps, such as &lt;br&gt;obstacle avoidance, vision-guided landing, etc." style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#FF0000;fontColor=#FF0000;" edge="1" parent="1" source="IrnzPBB1oJrZkGAjnWZN-11" target="IrnzPBB1oJrZkGAjnWZN-9">
+          <mxGeometry x="0.3651" y="-20" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="720" />
               <mxPoint x="290" y="490" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IrnzPBB1oJrZkGAjnWZN-11" value="Our GCS App" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="IrnzPBB1oJrZkGAjnWZN-11" value="Our GCS App" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontStyle=1;dashed=1;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="330" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IrnzPBB1oJrZkGAjnWZN-29" value="Running" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IrnzPBB1oJrZkGAjnWZN-15" target="IrnzPBB1oJrZkGAjnWZN-11">
@@ -60,11 +61,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IrnzPBB1oJrZkGAjnWZN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IrnzPBB1oJrZkGAjnWZN-18" target="IrnzPBB1oJrZkGAjnWZN-30">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IrnzPBB1oJrZkGAjnWZN-31" value="Upload Mission&lt;br&gt;Control Payload Trigger&lt;br&gt;Monitering" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;strokeColor=#FF3333;fontColor=#FF0000;" edge="1" parent="1" source="IrnzPBB1oJrZkGAjnWZN-18" target="IrnzPBB1oJrZkGAjnWZN-30">
+          <mxGeometry y="-50" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IrnzPBB1oJrZkGAjnWZN-18" value="MAVSDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IrnzPBB1oJrZkGAjnWZN-19" value="Radio/WIFI/LTE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="550" y="589.0000000000002" as="geometry" />
@@ -76,7 +79,7 @@
           <mxGeometry x="660" y="481" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="IrnzPBB1oJrZkGAjnWZN-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-128.png;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="710" width="20" height="20" as="geometry" />
+          <mxGeometry x="480" y="710" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IrnzPBB1oJrZkGAjnWZN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IrnzPBB1oJrZkGAjnWZN-30" target="IrnzPBB1oJrZkGAjnWZN-1">
           <mxGeometry relative="1" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T05:44:07.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="DKcJz8vH2j1Bz0KaM18B" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T05:45:05.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="PZCmXWa7XRAABl_PO1xS" version="14.6.10" type="github">
   <diagram id="MsZUe_BFRRnNckxwp380" name="Page-1">
     <mxGraphModel dx="1031" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
             <mxPoint x="440" y="369" as="sourcePoint" />
             <mxPoint x="420" y="369" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PPc5Tln8-h5H9LImuYgE-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mavlink.io/assets/site/logo_mavlink_small.png;" vertex="1" parent="1">
-          <mxGeometry x="880" y="371.12" width="74" height="17.76" as="geometry" />
         </mxCell>
         <mxCell id="PPc5Tln8-h5H9LImuYgE-38" value="Telemetry Radio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="110" height="60" as="geometry" />
@@ -55,23 +52,20 @@
         <mxCell id="PPc5Tln8-h5H9LImuYgE-60" value="UDP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="720" y="480" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PPc5Tln8-h5H9LImuYgE-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;shadow=0;sketch=0;jumpStyle=arc;strokeColor=#FF3333;" edge="1" parent="1" source="PPc5Tln8-h5H9LImuYgE-61" target="PPc5Tln8-h5H9LImuYgE-63">
+        <mxCell id="PPc5Tln8-h5H9LImuYgE-67" value="MAVLink" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;shadow=0;sketch=0;jumpStyle=arc;strokeColor=#FF3333;" edge="1" parent="1" source="PPc5Tln8-h5H9LImuYgE-61" target="PPc5Tln8-h5H9LImuYgE-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PPc5Tln8-h5H9LImuYgE-61" value="UART" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="790" y="480" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PPc5Tln8-h5H9LImuYgE-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="PPc5Tln8-h5H9LImuYgE-52" target="PPc5Tln8-h5H9LImuYgE-59">
+        <mxCell id="PPc5Tln8-h5H9LImuYgE-62" value="MAVLink" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="PPc5Tln8-h5H9LImuYgE-52" target="PPc5Tln8-h5H9LImuYgE-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PPc5Tln8-h5H9LImuYgE-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="PPc5Tln8-h5H9LImuYgE-63" target="PPc5Tln8-h5H9LImuYgE-54">
+        <mxCell id="PPc5Tln8-h5H9LImuYgE-64" value="MAVLink" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="PPc5Tln8-h5H9LImuYgE-63" target="PPc5Tln8-h5H9LImuYgE-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PPc5Tln8-h5H9LImuYgE-63" value="UART" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="990" y="360" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PPc5Tln8-h5H9LImuYgE-68" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mavlink.io/assets/site/logo_mavlink_small.png;" vertex="1" parent="1">
-          <mxGeometry x="886" y="491.12" width="74" height="17.76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

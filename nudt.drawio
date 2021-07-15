@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T21:21:06.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="098R2ONIDrf0q2RJJ2b2" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T21:21:46.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Jn446Y7kCZd9EveMhrYI" version="14.8.6" type="github">
   <diagram id="m3MYUzCz0QOP30OFy1lc" name="Page-1">
     <mxGraphModel dx="1044" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -46,10 +46,10 @@
         <mxCell id="BDHvIKGZSGZF9wM_z3tD-32" value="机器人间通讯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="BDHvIKGZSGZF9wM_z3tD-52">
           <mxGeometry x="-0.47" y="30" width="370.47" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BDHvIKGZSGZF9wM_z3tD-98" value="智能机器人系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="BDHvIKGZSGZF9wM_z3tD-52">
+        <mxCell id="BDHvIKGZSGZF9wM_z3tD-98" value="智能机器人系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="BDHvIKGZSGZF9wM_z3tD-52">
           <mxGeometry x="-0.47" y="130" width="370.47" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BDHvIKGZSGZF9wM_z3tD-23" value="单机机器人系统" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="BDHvIKGZSGZF9wM_z3tD-52">
+        <mxCell id="BDHvIKGZSGZF9wM_z3tD-23" value="单机机器人系统" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;startSize=30;" vertex="1" parent="BDHvIKGZSGZF9wM_z3tD-52">
           <mxGeometry x="-0.47" y="180" width="370.01" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BDHvIKGZSGZF9wM_z3tD-9" value="模块间通讯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="BDHvIKGZSGZF9wM_z3tD-23">

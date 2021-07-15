@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T21:31:27.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="LZ-mPM7OYtTOVoQKcE4b" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T21:31:57.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="DsJScBFsfg3_HTYYS_tv" version="14.8.6" type="github">
   <diagram id="m3MYUzCz0QOP30OFy1lc" name="Page-1">
     <mxGraphModel dx="1044" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="-0.47" y="20" width="370.47" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BDHvIKGZSGZF9wM_z3tD-98" value="智能机器人系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontFamily=Georgia;" vertex="1" parent="BDHvIKGZSGZF9wM_z3tD-52">
-          <mxGeometry x="30" y="130" width="340" height="50" as="geometry" />
+          <mxGeometry y="130" width="370" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BDHvIKGZSGZF9wM_z3tD-23" value="单机机器人系统" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;startSize=30;fontFamily=Georgia;" vertex="1" parent="BDHvIKGZSGZF9wM_z3tD-52">
           <mxGeometry x="-0.47" y="180" width="370.01000000000005" height="140" as="geometry" />
